@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name MX_ALPS_Hybrid)(type KiCad)(uri ${KIPRJMOD}/MX_ALPS_Hybrid.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name keebio-components)(type KiCad)(uri ${KIPRJMOD}/keebio-components)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name kicad_lib_tmk)(type KiCad)(uri ${KIPRJMOD}/kicad_lib_tmk)(options "")(descr ""))
+)
