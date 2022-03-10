@@ -1,5 +1,5 @@
 /*
-Copyright 2021 Astra Jones
+Copyright 2021 Astra Tanuki
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -25,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Star Boards
 #define PRODUCT         Sidewalk
-#define DESCRIPTION     Boxy van-style ortho 
+#define DESCRIPTION     Smol, ergoish 
 #define VIAL_KEYBOARD_UID {0x23, 0x8C, 0xEA, 0xC5, 0x84, 0x20, 0x9C, 0x3A}
  
 /* key matrix size */
